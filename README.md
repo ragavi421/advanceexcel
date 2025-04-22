@@ -23,4 +23,4 @@ Welcome to the Sales Dashboard project repository! This project focuses on analy
 ## Project Overview:
 - **Objective:** To transform raw sales data into actionable insights.
 - **Tools Used:** Microsoft Excel
-- 
+- - **Skills Demonstrated:**  power query, pivot table ,Data analysis, visualization, dashboard design.
